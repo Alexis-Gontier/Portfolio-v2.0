@@ -32,13 +32,13 @@ Pour exécuter ce projet en local, suivez les étapes ci-dessous :
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
+git clone https://github.com/Alexis-Gontier/Portfolio-v2.git
 ```
 
 2. Accédez au répertoire du projet :
 
 ```bash
-cd votre-repo
+cd Portfolio-v2
 ```
 
 3. Installez les dépendances :
@@ -55,7 +55,7 @@ Pour démarrer le serveur de développement, exécutez la commande suivante :
 npm run dev
 ```
 
-Ouvrez votre navigateur et accédez à `http://localhost:3000` pour voir le projet en action.
+Ouvrez votre navigateur et accédez à `http://localhost:5173` pour voir le projet en action.
 
 ## Technologies
 
@@ -67,8 +67,8 @@ Ouvrez votre navigateur et accédez à `http://localhost:3000` pour voir le proj
 
 Pour toute question ou suggestion, n'hésitez pas à me contacter :
 
-- Email : [votre.email@example.com](mailto:votre.email@example.com)
-- LinkedIn : [Votre Profil LinkedIn](https://www.linkedin.com/in/votreprofil)
-- GitHub : [Votre Profil GitHub](https://github.com/votre-utilisateur)
+- Email : [votre.email@example.com](mailto:alexis.gontier03@gmail.com)
+- LinkedIn : [Votre Profil LinkedIn](https://www.linkedin.com/in/alexis-gontier/)
+- GitHub : [Votre Profil GitHub](https://github.com/Alexis-Gontier)
 
 Merci d'avoir visité mon portfolio !
