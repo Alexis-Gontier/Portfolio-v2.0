@@ -2,7 +2,8 @@
 
 Bienvenue sur mon portfolio ! Ce projet est développé en utilisant Vite.js, React et Tailwind CSS. Il présente mes compétences, projets et expériences professionnelles.
 
-![Capture d'écran de la page d'arrivée](./screenshot.png)
+![image](https://github.com/user-attachments/assets/e9168a14-35f3-4724-a69f-03c78b6aafdf)
+
 
 ## Table des matières
 
