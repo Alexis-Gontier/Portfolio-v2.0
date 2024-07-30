@@ -16,7 +16,7 @@ Bienvenue sur mon portfolio ! Ce projet est développé en utilisant Vite.js, Re
 
 ## Aperçu
 
-Ce portfolio est conçu pour présenter mon parcours professionnel et mes projets de manière élégante et interactive. La page d'arrivée affiche une vue d'ensemble de mes compétences et de mes réalisations.
+Ce portfolio est conçu pour présenter mon parcours professionnel et mes projets de manière élégante et interactive.
 
 ## Fonctionnalités
 
@@ -67,8 +67,8 @@ Ouvrez votre navigateur et accédez à `http://localhost:5173` pour voir le proj
 
 Pour toute question ou suggestion, n'hésitez pas à me contacter :
 
-- Email : [votre.email@example.com](mailto:alexis.gontier03@gmail.com)
-- LinkedIn : [Votre Profil LinkedIn](https://www.linkedin.com/in/alexis-gontier/)
-- GitHub : [Votre Profil GitHub](https://github.com/Alexis-Gontier)
+- Email : [alexis.gontier03@gmail.com](mailto:alexis.gontier03@gmail.com)
+- LinkedIn : [alexis-gontier](https://www.linkedin.com/in/alexis-gontier/)
+- GitHub : [Alexis-Gontier](https://github.com/Alexis-Gontier)
 
 Merci d'avoir visité mon portfolio !
