@@ -12,6 +12,7 @@ Bienvenue sur mon portfolio ! Ce projet est développé en utilisant Vite.js, Re
 - [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Technologies](#technologies)
+- [Lien](#Lien)
 - [Contact](#contact)
 
 ## Aperçu
@@ -62,6 +63,12 @@ Ouvrez votre navigateur et accédez à `http://localhost:5173` pour voir le proj
 - **Vite.js** - Outil de build rapide pour le développement front-end moderne.
 - **React** - Bibliothèque JavaScript pour construire des interfaces utilisateur.
 - **Tailwind CSS** - Framework CSS utilitaire pour un design rapide et flexible.
+
+## Lien
+
+Vous pouvez voir le portfolio en ligne à l'adresse suivante :
+
+[https://algont-ier.com/](https://algont-ier.com/)
 
 ## Contact
 
